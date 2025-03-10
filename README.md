@@ -40,4 +40,4 @@ CSS for styling and animations
 JavaScript for dynamic interactions and local storage
 
 ## **Screenshots**
-
+![ToDo List Screenshot](Sample%20Screenshot.png)
